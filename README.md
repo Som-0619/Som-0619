@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Hazra</h1>
 <h3 align="center">Aspiring Data Scientist | Wisdom in Web Development | Developing skills in GenAI & ML</h3>
-<img align="right" alt"Coding" width="400" scr="https://giphy.com/gifs/mTPjPA6SSXgTsnZ1Dh"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=som-0619&label=Profile%20views&color=0e75b6&style=flat" alt="som-0619" /> </p>
 
