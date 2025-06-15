@@ -18,7 +18,7 @@ class Developer:
         self.location = "Bengaluru, India"
         self.education = "B.E. in CSE (Data Science)"
         self.interests = ["Machine Learning", "AI", "Development", "Gamer"]
-        self.fun_fact = "Yourr the last man standing finish it - Call of Duty"
+        self.motivation = "Your the last man standing finish it - Call of Duty"
 ```
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,django,flask,postgres,mongodb,git,github,vscode,pandas,numpy,matplotlib,powerbi,docker,googlecloud,aws", /> </p>
@@ -47,7 +47,7 @@ class Developer:
 
   
 🚩 Ai Club – Co-Founder / Vice President
-- Ledding the team and conducting various workshop , tech-talks and hackathons
+- Leading the team and conducting various workshop , tech-talks and hackathons
 
 
 ### 🎯 GitHub Stats
