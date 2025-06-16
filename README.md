@@ -17,7 +17,7 @@ class Developer:
         self.name = "Soumyajit Hazra"
         self.location = "Bengaluru, India"
         self.education = "B.E. in CSE (Data Science)"
-        self.interests = ["Machine Learning", "AI", "Development", "Gamer"]
+        self.interests = ["Machine Learning", "AI", "Cloud", "Development", "Gamer"]
         self.motivation = "Your the last man standing finish it - Call of Duty"
 ```
 
